@@ -13,3 +13,5 @@ Um cronogrma/relato sobre o que fiz no NPI
 07 de agosto: Dei continuidade aos aprendizados com lua no Codecademy. Estou trabalhando em um projeto simples do curso de uma loja mística virtual.
 
 10 de agosto: Participei da monitoria no Londrinense Tech e fiz mais alguns códigos em java para praticar.
+
+11 de agosto: Continuei com os cursos na Codecademy e após as 15:00 foi assistir a apresentação das incubadoras no Ipolon II.
