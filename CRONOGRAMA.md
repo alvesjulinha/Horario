@@ -16,4 +16,4 @@ Um cronogrma/relato sobre o que fiz no NPI
 
 11 de agosto: Continuei com os cursos na Codecademy e após as 15:00 foi assistir a apresentação das incubadoras no Ipolon II.
 
-04 de Agosto: Participei da monitoria no Pensamento Computacional e continuei praticando java.
+124 de Agosto: Participei da monitoria no Pensamento Computacional e continuei praticando java.
