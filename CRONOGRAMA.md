@@ -19,3 +19,5 @@ Um cronogrma/relato sobre o que fiz no NPI
 12: de agosto: Participei da monitoria no Pensamento Computacional e continuei praticando java.
 
 13 de agosto: participei novamente do grupo de pesquisa e desenvolvimento Obscura.
+
+17 de agosto: continuei a estudar java
