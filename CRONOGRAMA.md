@@ -21,3 +21,7 @@ Um cronogrma/relato sobre o que fiz no NPI
 13 de agosto: participei novamente do grupo de pesquisa e desenvolvimento Obscura.
 
 17 de agosto: continuei a estudar java
+
+19 de agosto: participei da monitoria e continuei a praticar java.
+
+20 de agosto: participei da reunião do grupo de pesquisa e desenvolvimento de jogos.
