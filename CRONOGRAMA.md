@@ -25,3 +25,5 @@ Um cronogrma/relato sobre o que fiz no NPI
 19 de agosto: participei da monitoria e continuei a praticar java.
 
 20 de agosto: participei da reunião do grupo de pesquisa e desenvolvimento de jogos.
+
+21 de agosto: prática com java.
