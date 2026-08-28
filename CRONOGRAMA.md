@@ -29,3 +29,13 @@ Um cronogrma/relato sobre o que fiz no NPI
 20 de agosto: participei da reunião do grupo de pesquisa e desenvolvimento de jogos.
 
 21 de agosto: prática com java.
+
+24 de agosto: fiz parte da monitoria do Londrinense tech e estudei java e FlexBox.
+
+25 de agosto: não compareci ao NPI pois não estava me sentindo bem.
+
+26 de agosto: participei da monitoria no Pensamento computacional e fiz uma atividade no Figma.
+
+27 de agosto: participei do grupo de pesquisa Obscura.
+
+28 de agosto: continuei estudando agregação em java e pesquisei artigos para o grupo de pesquisa. 
