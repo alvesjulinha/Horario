@@ -39,3 +39,7 @@ Um cronogrma/relato sobre o que fiz no NPI
 27 de agosto: participei do grupo de pesquisa Obscura.
 
 28 de agosto: continuei estudando agregação em java e pesquisei artigos para o grupo de pesquisa. 
+
+31 de agosto: participei da monitoria e estudei como criar um javadoc para uma tarefa.
+
+01 de setembro: estive ocupada terminando uma apresentação de trabalho.
