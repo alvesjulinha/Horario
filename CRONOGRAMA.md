@@ -46,4 +46,5 @@ Um cronogrma/relato sobre o que fiz no NPI
 
 02 de setembro: participei da monitoria do Pensamento Computacional. Como terminei minhas atividades relacionadas a Java decidi voltar a focar em Lua, que é uma linguagem que estou gostando de aprender, e fiz alguns códigos para relembrar sobre funções.
 
-03 de setembro:
+03 de setembro: continuei a estudar Lua e estou praticando com códigos simples como solicitar informações do usuário. Eu estou gostando de estudar essa linguagem, mesmo que aos poucos, o único problema é a extensão do Visual Studio que não aceita alguns caracteres da língua portuguesa. Estou tentando resolver isso.
+
