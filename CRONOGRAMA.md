@@ -45,3 +45,5 @@ Um cronogrma/relato sobre o que fiz no NPI
 01 de setembro: estive ocupada terminando uma apresentação de trabalho.
 
 02 de setembro: participei da monitoria do Pensamento Computacional. Como terminei minhas atividades relacionadas a Java decidi voltar a focar em Lua, que é uma linguagem que estou gostando de aprender, e fiz alguns códigos para relembrar sobre funções.
+
+03 de setembro:
