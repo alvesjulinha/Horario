@@ -48,3 +48,4 @@ Um cronogrma/relato sobre o que fiz no NPI
 
 03 de setembro: continuei a estudar Lua e estou praticando com códigos simples como solicitar informações do usuário. Eu estou gostando de estudar essa linguagem, mesmo que aos poucos, o único problema é a extensão do Visual Studio que não aceita alguns caracteres da língua portuguesa. Estou tentando resolver isso.
 
+08 de setembro: pesquisei mais fontes para continuar aprendendo Lua, como repositórios e documentação e também tentei procurar por outros compiladores de Lua e extensões para o Visual Studio Code. 
