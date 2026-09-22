@@ -46,15 +46,19 @@ end
 print("========CONTAGEM DE 1 ATÉ N========")
 umAN(n1)
 print( )
+   
 print("========SOMA DE 1 ATÉ N========")
 somaN(n1)
 print( )
+   
 print("========SOMA DOS PARES DE 1 ATÉ N========")
 somaParesN(n1)
 print( )
+   
 print("========TABUADA DO NÚMERO========")
 tabuada(n1)
 print( )
+   
 print("========FATORIAL DO NÚMERO========")
 fatorial(n1)
 end
